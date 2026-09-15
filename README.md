@@ -2,6 +2,10 @@
 
 A simple Todo app built with Vue.js.
 
+## About
+
+This project is built for learning purposes and to gain hands-on experience with Vue.js and frontend application development.
+
 ## Features
 
 * Add, edit, and delete tasks
